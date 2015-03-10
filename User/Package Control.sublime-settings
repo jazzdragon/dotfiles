@@ -1,0 +1,42 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Color Highlighter",
+		"Colorcoder",
+		"ColorPicker",
+		"CSS Snippets",
+		"Csslisible",
+		"DocBlockr",
+		"Emmet",
+		"GitDiffHelper",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Jade",
+		"Jasmine JS",
+		"JS Snippets",
+		"Markdown Preview",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PlainTasks",
+		"Pretty JSON",
+		"Sass",
+		"SCSS",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"Terminal",
+		"Terminality",
+		"Themr",
+		"Underscorejs snippets"
+	]
+}

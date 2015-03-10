@@ -1,0 +1,12 @@
+{
+	"files":
+	{
+		"jasmine-jquery": "https://raw.githubusercontent.com/velesin/jasmine-jquery/master/lib/jasmine-jquery.js",
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"modernizr": "https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}

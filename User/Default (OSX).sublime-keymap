@@ -1,0 +1,16 @@
+[
+	{ "keys": ["super+shift+t"], "command": "open_terminal_project_folder" },
+	{ "keys": ["alt+shift+c"], "command": "git_quick_commit" },
+  { "keys": ["alt+shift+a"], "command": "git_quick_add" },
+  { "keys": ["alt+shift+p"], "command": "git_push" },
+  {"keys": ["super+shift+r"], "command": "side_bar_rename"},
+  {"keys": ["super+shift+x"], "command": "side_bar_delete"},
+  {"keys": ["super+shift+u"], "command": "side_bar_duplicate"},
+  {"keys": ["super+shift+s"], "command": "side_bar_reveal"},
+  {"keys": ["super+shift+w"], "command": "reveal_in_side_bar"},
+  {"keys": ["super+shift+h"], "command": "side_bar_copy_path"},
+  {"keys": ["super+shift+a"], "command": "side_bar_copy_tag_ahref"},
+  {"keys": ["super+shift+o"], "command": "side_bar_open_in_browser"},
+  {"keys": ["super+shift+n"], "command": "side_bar_new_file2"}
+
+]

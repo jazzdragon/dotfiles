@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Colorcoder/Seti (Colorcoded).tmTheme",
+	"create_window_at_startup": false,
+	"font_size": 14,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"original_color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"overlay_scroll_bars": "enabled",
+	"remember_open_files": false,
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"theme": "Seti.sublime-theme",
+	"word_wrap": true
+}
